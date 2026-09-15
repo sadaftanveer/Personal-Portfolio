@@ -30,29 +30,6 @@ Features
 - React Icons
 - Google Fonts (Poppins)
 
- Project Structure
-
-src/
-├── components/
-│   ├── common/
-│   │   ├── Button.tsx
-│   │   ├── Container.tsx
-│   │   ├── SectionHeading.tsx
-│   │   └── SocialLinks.tsx
-│   │
-│   ├── Navbar.tsx
-│   ├── Hero.tsx
-│   ├── About.tsx
-│   ├── Skills.tsx
-│   ├── Education.tsx
-│   ├── Projects.tsx
-│   ├── Experience.tsx
-│   ├── Contact.tsx
-│   └── Footer.tsx
-│
-├── App.tsx
-├── App.css
-└── index.css
 
 
 Installation:
