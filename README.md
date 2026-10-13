@@ -1,6 +1,6 @@
  Personal Portfolio
 
-A responsive personal portfolio website developed as Task 1 of my Web Development Internship at "Arch Technologies".
+A responsive personal portfolio website 
 
 The portfolio showcases my education, technical skills, university project, practical experience, and contact information.
 
@@ -35,12 +35,12 @@ Features
 Installation:
 
 Clone the repository:
-git clone https://github.com/sadaftanveer/Arch-Technologies-Personal-Portfolio.git
+git clone https://github.com/sadaftanveer/Personal-Portfolio.git
 
 
 
 Navigate to the project folder:
-cd Arch-Technologies-Personal-Portfolio
+
 
 
 Install dependencies:
